@@ -3,11 +3,16 @@ title: "Graduate School Application Essentials"
 subtitle: "For Viscog Undergraduates"
 format: revealjs
 ---
+
 ## Agenda
-11:00 - 11:10 am: Short intros of all the club members
-11:10 - 11:15 am: Short slide deck about the applications
-11:15  - 11:30 am: Moderated questions about grad school applications
-11:30 - 11:50 am: Questions from the audience 
+
+-   11:00 - 11:10 am: Short intros of all the club members
+
+-   11:10 - 11:15 am: Short slide deck about the applications
+
+-   11:15 - 11:30 am: Moderated questions about grad school applications
+
+-   11:30 - 11:50 am: Questions from the audience
 
 ## Application Components
 
@@ -43,6 +48,7 @@ November:
 ::: notes
 Remind students to check specific deadlines for each program.
 :::
+
 ::: notes
 Encourage students to seek feedback on their application materials.
 :::
