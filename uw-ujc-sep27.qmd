@@ -3,6 +3,11 @@ title: "Graduate School Application Essentials"
 subtitle: "For Viscog Undergraduates"
 format: revealjs
 ---
+## Agenda
+11:00 - 11:10 am: Short intros of all the club members
+11:10 - 11:15 am: Short slide deck about the applications
+11:15  - 11:30 am: Moderated questions about grad school applications
+11:30 - 11:50 am: Questions from the audience 
 
 ## Application Components
 
@@ -18,16 +23,6 @@ format: revealjs
 Emphasize the importance of starting early on each component.
 :::
 
-## Key Preparation Steps
-
-1.  Research potential programs and faculty
-2.  Gain research experience
-3.  Build strong relationships with professors
-4.  Prepare for and take the GRE
-5.  Draft and refine your statement of purpose
-6.  Compile a comprehensive CV
-7.  Request letters of recommendation early
-
 ::: notes
 Stress the significance of research experience and networking.
 :::
@@ -37,7 +32,7 @@ Stress the significance of research experience and networking.
 October:
 
 -   finalize list of labs,
--   contact recommenders   
+-   contact recommenders
 -   Take GRE if needed
 -   finalize statement of purpose
 
@@ -45,23 +40,9 @@ November:
 
 -   Submit applications (typical deadline: December 1)
 
-
-
-
 ::: notes
 Remind students to check specific deadlines for each program.
 :::
-
-## Tips for Success
-
-1.  Start early and stay organized
-2.  Tailor applications to each program
-3.  Highlight research experience and interests
-4.  Demonstrate fit with program and potential advisors
-5.  Proofread all materials carefully
-6.  Prepare for interviews
-7.  Consider backup plans (e.g., post-bac programs, research assistant positions)
-
 ::: notes
 Encourage students to seek feedback on their application materials.
 :::
