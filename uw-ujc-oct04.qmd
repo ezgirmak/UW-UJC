@@ -1,0 +1,125 @@
+---
+title: "How to Read/Write Scientific Articles"
+subtitle: "October 4th, 2024"
+format: 
+  revealjs:
+    incremental: true
+---
+
+## How to Read a Scientific Article
+
+Carey, M. A., Steiner, K. L., & Petri Jr, W. A. (2020). Ten simple rules for reading a scientific paper. *PLoS computational biology*, *16*(7), e1008032. [https://doi.org/10.1371/journal.pcbi.1008032](https://doi.org/10.1371/journal.pcbi.1008032)
+
+## Rule 1: Pick your reading goal
+
+![](./uw-ujc-oct04_images/pcbi.1008032.t001.jpg){fig-align="center"}
+
+## Rule 2: Understand the author's goal
+
+- What is the author's goal for sharing this project?
+  - Who are the author(s)? What lab are they from?
+  - How are they interpreting the data?
+- What kind of article is it?
+  - Common journal article focuses: research article, methods, resources, software
+  - Review-like: review (actively looking forward, retrospective), commentary
+
+## Rules 3: Ask six questions
+
+1. What do the author(s) want to know (motivation)?
+2. What did they do (approach / methods)?
+3. Why was it done that way (context within the field)?
+4. What do the results show (figures and data table)?
+    - Or what do the results *not* show. 
+5. How did the author(s) interpret the results (interpretation/discussion)?
+6. What should be done next?
+
+## Rule 4: Unpack each figure and table
+
+- Each figure (or figure panel) should have a "take home" message.
+- If you can explain a paper by its figures alone, you've got the skeleton of a journal club presentation.
+
+::: aside
+Skipping Rule 5 about paper formating as they radically differ.
+:::
+
+## Rule 6: Be critical
+
+:::{.callout-important}
+"Published papers are not truths etchned in stone."
+:::
+
+- Published papers are not textbooks (and even then!). 
+- Always be critical of the results presented.
+- Be aware of how norrow or broadly the paper's claims are.
+
+## That being said...
+
+- Rule 7: Be kind
+  - Everyone is human and humans make mistake. 
+  - Do not say anything that you would not say to the author(s) if they were in-person.
+  - English may be the official language of science, but it is not everyone's native language!
+  
+- Rule 8: Be ready to go the extra mile
+  - Author(s) cannot write a textbook each time they write a paper, you will have to do some leg work at some point in order to fully understand everything.
+
+## Rules 9-10: Talk about it & Build on it
+
+- What we are doing now!
+- Journal clubs, one-on-one/group meetings, over coffee, etc. 
+
+## How to Write a Scientific Article
+
+Carandini, M. (2022). Some Tips for Writing Science. *eNeuro*, *9*(6).  [https://doi.org/10.1523/ENEURO.0497-22.2022](https://doi.org/10.1523/ENEURO.0497-22.2022)
+
+
+## General tips
+
+:::fragment
+
+:::{.callout-note}
+"Scientific ideas can be understood only if they are simple, and the job of making them simple is the writer’s, not the reader’s"
+:::
+
+:::
+
+- Write simply, identify key questions, write in paragraphs, use topic sentences, structure the sentences with information in the right places, and make informative figures.
+
+## Abstract 
+
+- A general rule is that the abstract should consists of 1-2 sentences from each section of the paper (e.g., Introduction, Methods, Results, Discussion). 
+- Most people only ever read the abstract, so it should to be a concise summary of the *entire* paper. 
+
+## Introduction
+
+- The first paragraph should set up the broad area of inquiry an ideally open with a vivid sentence. (If that cannot be achieved, be straightforward). 
+- The introduction pose the questions that the paper answers.
+- Last paragraph usually dscribes the main results.
+
+:::fragment
+
+:::{.callout-tip}
+"When presenting the questions, beware of asserting that they are “interesting,” “important,” or “understudied.” Let the reader conclude that they are interesting or important. As for “understudied,” it makes a weak case: they maybe understudied because unimportant."
+:::
+
+:::
+
+## Methods
+
+- Write the Methods section such that readers can go directly from Introduction to Results (unless it is a methods paper). 
+- Write the methods section such that a naive reader can **replicate** the entire experiment. 
+- Provide detailed software intructions, GitHub repositories, and/or access to data whenever possible!
+
+## Results
+
+- Write the Results section with subsections based on figures, which illustrate the main point of an analysis.
+- The text should walk the reader through the figure. It may be obvious to you, but it will not be to someone else.
+- **Report** the results, interpretation of what the numbers mean comes in the discussion.
+- The ordering of the results section should generally go from broad to specific. 
+  - E.g., Summary statistics to analysis of group differences. 
+
+## Discussion
+
+- The first paragraph usually summarizes the main findings, focused on the questions the paper set out to address.
+- The key job of the Discussion is to draw conclusions, which are different from summaries.
+- Finally, the Discussion is an opportunity to indicate the limitations of the paper.
+- A final conclusion paragraph is useful for readers who want to extract a summary of the strongest claims the paper makes.
