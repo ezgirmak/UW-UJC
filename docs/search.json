@@ -53,14 +53,14 @@
     "href": "uw-ujc-oct04.html#rule-4-unpack-each-figure-and-table",
     "title": "How to Read/Write Scientific Articles",
     "section": "Rule 4: Unpack each figure and table",
-    "text": "Rule 4: Unpack each figure and table\n\nEach figure (or figure panel) should have a “take home” message.\nIf you can explain a paper by its figures alone, you’ve got the skeleton of a journal club presentation.\n\n\n\nSkipping Rule 5 about paper formating as they radically differ."
+    "text": "Rule 4: Unpack each figure and table\n\nEach figure (or figure panel) should have a “take home” message.\nIf you can explain a paper by its figures alone, you’ve got the skeleton of a journal club presentation.\n\n\n\nSkipping Rule 5 about paper formatting as they radically differ."
   },
   {
     "objectID": "uw-ujc-oct04.html#rule-6-be-critical",
     "href": "uw-ujc-oct04.html#rule-6-be-critical",
     "title": "How to Read/Write Scientific Articles",
     "section": "Rule 6: Be critical",
-    "text": "Rule 6: Be critical\n\n\n\n\n\n\nImportant\n\n\n“Published papers are not truths etchned in stone.”\n\n\n\n\nPublished papers are not textbooks (and even then!).\nAlways be critical of the results presented.\nBe aware of how norrow or broadly the paper’s claims are."
+    "text": "Rule 6: Be critical\n\n\n\n\n\n\nImportant\n\n\n“Published papers are not truths etched in stone.”\n\n\n\n\nPublished papers are not textbooks (and even then!).\nAlways be critical of the results presented.\nBe aware of how narrow or broadly the paper’s claims are."
   },
   {
     "objectID": "uw-ujc-oct04.html#that-being-said",
@@ -102,14 +102,14 @@
     "href": "uw-ujc-oct04.html#introduction",
     "title": "How to Read/Write Scientific Articles",
     "section": "Introduction",
-    "text": "Introduction\n\nThe first paragraph should set up the broad area of inquiry an ideally open with a vivid sentence. (If that cannot be achieved, be straightforward).\nThe introduction pose the questions that the paper answers.\nLast paragraph usually dscribes the main results.\n\n\n\n\n\n\n\n\nTip\n\n\n“When presenting the questions, beware of asserting that they are “interesting,” “important,” or “understudied.” Let the reader conclude that they are interesting or important. As for “understudied,” it makes a weak case: they maybe understudied because unimportant.”"
+    "text": "Introduction\n\nThe first paragraph should set up the broad area of inquiry an ideally open with a vivid sentence. (If that cannot be achieved, be straightforward).\nThe introduction pose the questions that the paper answers.\nLast paragraph usually describes the main results.\n\n\n\n\n\n\n\n\nTip\n\n\n“When presenting the questions, beware of asserting that they are “interesting,” “important,” or “understudied.” Let the reader conclude that they are interesting or important. As for “understudied,” it makes a weak case: they maybe understudied because unimportant.”"
   },
   {
     "objectID": "uw-ujc-oct04.html#methods",
     "href": "uw-ujc-oct04.html#methods",
     "title": "How to Read/Write Scientific Articles",
     "section": "Methods",
-    "text": "Methods\n\nWrite the Methods section such that readers can go directly from Introduction to Results (unless it is a methods paper).\nWrite the methods section such that a naive reader can replicate the entire experiment.\nProvide detailed software intructions, GitHub repositories, and/or access to data whenever possible!"
+    "text": "Methods\n\nWrite the Methods section such that readers can go directly from Introduction to Results (unless it is a methods paper).\nWrite the methods section such that a naive reader can replicate the entire experiment.\nProvide detailed software instructions, GitHub repositories, and/or access to data whenever possible!"
   },
   {
     "objectID": "uw-ujc-oct04.html#results",
@@ -124,5 +124,12 @@
     "title": "How to Read/Write Scientific Articles",
     "section": "Discussion",
     "text": "Discussion\n\nThe first paragraph usually summarizes the main findings, focused on the questions the paper set out to address.\nThe key job of the Discussion is to draw conclusions, which are different from summaries.\nFinally, the Discussion is an opportunity to indicate the limitations of the paper.\nA final conclusion paragraph is useful for readers who want to extract a summary of the strongest claims the paper makes."
+  },
+  {
+    "objectID": "uw-ujc-oct04.html#rule-3-ask-six-questions",
+    "href": "uw-ujc-oct04.html#rule-3-ask-six-questions",
+    "title": "How to Read/Write Scientific Articles",
+    "section": "Rule 3: Ask six questions",
+    "text": "Rule 3: Ask six questions\n\nWhat do the author(s) want to know (motivation)?\nWhat did they do (approach / methods)?\nWhy was it done that way (context within the field)?\nWhat do the results show (figures and data table)?\n\nOr what do the results not show.\n\nHow did the author(s) interpret the results (interpretation/discussion)?\nWhat should be done next?"
   }
 ]

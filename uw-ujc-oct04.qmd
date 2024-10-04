@@ -23,7 +23,7 @@ Carey, M. A., Steiner, K. L., & Petri Jr, W. A. (2020). Ten simple rules for rea
   - Common journal article focuses: research article, methods, resources, software
   - Review-like: review (actively looking forward, retrospective), commentary
 
-## Rules 3: Ask six questions
+## Rule 3: Ask six questions
 
 1. What do the author(s) want to know (motivation)?
 2. What did they do (approach / methods)?
@@ -39,18 +39,18 @@ Carey, M. A., Steiner, K. L., & Petri Jr, W. A. (2020). Ten simple rules for rea
 - If you can explain a paper by its figures alone, you've got the skeleton of a journal club presentation.
 
 ::: aside
-Skipping Rule 5 about paper formating as they radically differ.
+Skipping Rule 5 about paper formatting as they radically differ.
 :::
 
 ## Rule 6: Be critical
 
 :::{.callout-important}
-"Published papers are not truths etchned in stone."
+"Published papers are not truths etched in stone."
 :::
 
 - Published papers are not textbooks (and even then!). 
 - Always be critical of the results presented.
-- Be aware of how norrow or broadly the paper's claims are.
+- Be aware of how narrow or broadly the paper's claims are.
 
 ## That being said...
 
@@ -93,7 +93,7 @@ Carandini, M. (2022). Some Tips for Writing Science. *eNeuro*, *9*(6).  [https:/
 
 - The first paragraph should set up the broad area of inquiry an ideally open with a vivid sentence. (If that cannot be achieved, be straightforward). 
 - The introduction pose the questions that the paper answers.
-- Last paragraph usually dscribes the main results.
+- Last paragraph usually describes the main results.
 
 :::fragment
 
@@ -107,7 +107,7 @@ Carandini, M. (2022). Some Tips for Writing Science. *eNeuro*, *9*(6).  [https:/
 
 - Write the Methods section such that readers can go directly from Introduction to Results (unless it is a methods paper). 
 - Write the methods section such that a naive reader can **replicate** the entire experiment. 
-- Provide detailed software intructions, GitHub repositories, and/or access to data whenever possible!
+- Provide detailed software instructions, GitHub repositories, and/or access to data whenever possible!
 
 ## Results
 
